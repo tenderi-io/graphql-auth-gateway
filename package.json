@@ -25,7 +25,9 @@
   "dependencies": {
     "@apollo/server": "^4.9.5",
     "@apollo/subgraph": "^2.6.2",
+    "@graphql-tools/merge": "^9.0.1",
     "@tenderi-io/entity": "file:../entity/tenderi-io-entity-1.20.0.tgz",
+    "axios": "^1.6.2",
     "bcrypt": "^5.1.1",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
